@@ -1,2 +1,3 @@
 # Neural_Tangent_Kernel_Huiyao_Wang
-Msc Dissertation-Huiyao Wang
+Msc Dissertation-Huiyao Wang.
+This is colab notebook for the dissertation in the University of Edinburgh. 
